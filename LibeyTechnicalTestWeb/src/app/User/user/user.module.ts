@@ -4,16 +4,20 @@ import { UsercardsComponent } from './usercards/usercards.component';
 import { UsermaintenanceComponent } from './usermaintenance/usermaintenance.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { NgSelectModule } from "@ng-select/ng-select";
+import { UserlistComponent } from './userlist/userlist.component';
+import { RouterModule } from '@angular/router';
 @NgModule({
   declarations: [   
     UsercardsComponent,
-    UsermaintenanceComponent
+    UsermaintenanceComponent,
+    UserlistComponent,
   ],
   imports: [
     CommonModule,
     FormsModule,
     ReactiveFormsModule,
-    NgSelectModule    
+    NgSelectModule,
+    RouterModule,    
   ]
 })
 export class UserModule { }
