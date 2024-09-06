@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "LibeyTechnicalTestAPI\\Controllers\\LibeyUser\\LibeyUserController.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\LibeyTechnicalTest\\LibeyTechnicalTestAPI\\LibeyTechnicalTestAPI\\Controllers\\LibeyUser\\LibeyUserController.cs",
               "RelativeToolTip": "LibeyTechnicalTestAPI\\Controllers\\LibeyUser\\LibeyUserController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAywAwAAAAjAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAywBcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T19:36:31.95Z",
               "IsPinned": true,
@@ -132,8 +132,7 @@
               "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\LibeyUserAggregate.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T23:48:07.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T23:48:07.501Z"
             },
             {
               "$type": "Document",
@@ -145,8 +144,7 @@
               "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Infrastructure\\LibeyUserRepository.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAlwCcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T20:59:20.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T20:59:20.823Z"
             },
             {
               "$type": "Document",
@@ -158,8 +156,7 @@
               "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\ILibeyUserAggregate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T23:30:53.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T23:30:53.477Z"
             },
             {
               "$type": "Document",
@@ -171,8 +168,7 @@
               "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Application\\Interfaces\\ILibeyUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T23:47:39.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T23:47:39.48Z"
             },
             {
               "$type": "Document",
@@ -184,8 +180,7 @@
               "RelativeToolTip": "LibeyTechnicalTestDomain\\LibeyUserAggregate\\Domain\\LibeyUser.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAcwAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T19:36:59.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T19:36:59.378Z"
             },
             {
               "$type": "Document",
@@ -197,8 +192,7 @@
               "RelativeToolTip": "LibeyTechnicalTestDomain\\EFCore\\Context.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T19:36:20.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T19:36:20.155Z"
             },
             {
               "$type": "Document",
@@ -210,8 +204,7 @@
               "RelativeToolTip": "LibeyTechnicalTestDomain\\EFCore\\Configuration\\LibeyUserConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T19:36:11.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T19:36:11.495Z"
             },
             {
               "$type": "Document",
@@ -223,8 +216,7 @@
               "RelativeToolTip": "LibeyTechnicalTestAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-05T19:45:43.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T19:45:43.128Z"
             },
             {
               "$type": "Document",
@@ -236,8 +228,7 @@
               "RelativeToolTip": "LibeyTechnicalTestAPI\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-05T19:24:12.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T19:24:12.535Z"
             },
             {
               "$type": "Document",
@@ -249,8 +240,7 @@
               "RelativeToolTip": "LibeyTechnicalTestAPI\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T19:24:12.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T19:24:12.746Z"
             },
             {
               "$type": "Document",
@@ -262,8 +252,7 @@
               "RelativeToolTip": "LibeyTechnicalTestAPI\\Middleware\\DIExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T19:36:33.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T19:36:33.326Z"
             },
             {
               "$type": "Document",
