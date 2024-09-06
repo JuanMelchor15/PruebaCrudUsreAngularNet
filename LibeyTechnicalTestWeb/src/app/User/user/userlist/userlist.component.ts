@@ -26,8 +26,6 @@ export class UserlistComponent implements OnInit {
     add() {
         this.router.navigateByUrl('/user/maintenance');
     }
-    
-
     delete(documentNumber: string) {
         Swal.fire({
             title: `¿Estas seguro de eliminar el usuario?`,
